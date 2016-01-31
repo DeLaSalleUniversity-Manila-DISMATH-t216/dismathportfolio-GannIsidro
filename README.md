@@ -3,6 +3,7 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 1
 
+#####Logical Operations
 | Logical Symbol  |  Logical Connective | Usage |
 | :-----: |:-------:|:-----:|
 | ¬ |Negation | not |

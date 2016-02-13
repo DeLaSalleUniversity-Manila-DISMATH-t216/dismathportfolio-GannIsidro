@@ -65,20 +65,18 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 4
 
-- [2/6] **Proof by Contraposition** (¬Q → ¬P): 
+- Proof by Contraposition: 
   - Steps in constructing Contrapositive Proof:
     1. Assume that ¬Q is true.
     2. Show that ¬P is also true.
-- [3/6] **Vacuous & Trivial Proofs**: 
+- Vacuous & Trivial Proofs: 
   - Vacuous Proof: It is a proof that P → Q is true based on the fact that P is false.
     - ¬P → (P → Q)
   - Trivial Proof: It is a proof that P → Q is true based on the fact that Q is true.
     - Q → (P → Q)
-- [4/6] **Proof by Contradiction**:
+- Proof by Contradiction:
   - Steps in constructing Proof by Contradiction:
     1. Assume P is true.
     2. Assume ¬Q is true.
     3. Demonstrate a contradiction.
-- Our instructor provided a clear definition of a rational number. 
-  - The real number *r* is *rational* if there exist integers p and q with q≠0 such that **r = p/q**. Otherwise, it is an *irrational number*.
-  - Q = {a/b | a, b ∈ ℤ} where b≠0, a & b have no common factor other than ±1
+

@@ -82,22 +82,29 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 5
 
-- I learned Summation, Recursive/Induction definition, Recursive algorithm and Program correctness
+- I learned Summation, Recursive/Induction definition, Recursive algorithm and Program correctness.
+
 - I learned the importance of Geometric Series and Power Series.
+
+
 - I also knew the function of Hoare Triple in which there are 3 main parts. Theinitial assertion then the program segment and lastly the final assertion.
 
 #Week 6
 
 - I learned Introduction to Algorithm.Like finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
+-
 - I also learned Sets, Set Identities and the Venn Diagram.
 
 #Week 7
 
 -I learned Bubble Sort and Insertion Sort ,Greedy Algorithm.
+
 -I also learned Growth of Functions often described using Big-O Notation  ,Big-Omega and Big-Theta ,Notation Algorithm ,Time Complexity.
 
 #Week 8
 
 -We discussed about Graph Theory.
+
 -I learned graphs, degree, vertex, subgraph, Euler Circuit, Euler Path, Handshaking Theorem, Matrices of Graphs, Hamilton Circuit, Hamilton Path and Kuratowski's Theorem.
+
 -Euler's Formula : r = e - v + 2

@@ -86,13 +86,12 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 - I learned the importance of Geometric Series and Power Series.
 
-
 - I also knew the function of Hoare Triple in which there are 3 main parts. Theinitial assertion then the program segment and lastly the final assertion.
 
 #Week 6
 
-- I learned Introduction to Algorithm.Like finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
--
+- I learned Introduction to Algorithm. Finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
+
 - I also learned Sets, Set Identities and the Venn Diagram.
 
 #Week 7

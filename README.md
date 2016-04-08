@@ -86,15 +86,21 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 - I learned the importance of Geometric Series and Power Series.
 
+- I also learned Sets, Set Identities and the Venn Diagram.
+
 - I also knew the function of Hoare Triple in which there are 3 main parts. Theinitial assertion then the program segment and lastly the final assertion.
 
 #Week 6
 
-- I learned Introduction to Algorithm. Finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
+- I learned about sets and its definition
 
-- I also learned Sets, Set Identities and the Venn Diagram.
+- Functions are also introduced in this week
+
+- I also knew the meaning of Domain, Co-domain and Range
 
 #Week 7
+
+-I learned Introduction to Algorithm. Finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
 
 -I learned Bubble Sort and Insertion Sort ,Greedy Algorithm.
 
@@ -107,3 +113,7 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 -I learned graphs, degree, vertex, subgraph, Euler Circuit, Euler Path, Handshaking Theorem, Matrices of Graphs, Hamilton Circuit, Hamilton Path and Kuratowski's Theorem.
 
 -Euler's Formula : r = e - v + 2
+
+#Week 9
+
+-

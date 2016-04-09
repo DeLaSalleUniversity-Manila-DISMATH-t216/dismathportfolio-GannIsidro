@@ -99,6 +99,7 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 #Week 7 (No classes)
 
 #Week 8
+
 - I learned about sets and its definition
 
 - Functions are also introduced in this week
@@ -123,6 +124,8 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 10
 
+-I learned Binary Search and Linear Search
+
 -I learned Bubble Sort ,Insertion Sort and Greedy Algorithm.
 
 #Week 11 (No classes)
@@ -137,4 +140,4 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 13
 
--Graph Coloring was the topic that introduced on this week
+- I learned Graph Coloring and Trees, which is a graph with no simple circuits.

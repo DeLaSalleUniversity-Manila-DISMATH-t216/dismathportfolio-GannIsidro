@@ -92,21 +92,42 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 #Week 6
 
+- I learned Counterexample where in it is a proof that allows us to prove that an argument is not true by providing an example where it does not hold.
+
+- Mathematical Induction was introduced as well.
+
+#Week 7 (No classes)
+
+#Week 8
 - I learned about sets and its definition
 
 - Functions are also introduced in this week
 
 - I also knew the meaning of Domain, Co-domain and Range
 
-#Week 7
-
+#Week 9
 -I learned Introduction to Algorithm. Finding the maximum and minimum, Pseudocodes, Precondition and Postcondition, Linear Search and Binary Search Algorithms.
-
--I learned Bubble Sort and Insertion Sort ,Greedy Algorithm.
 
 -I also learned Growth of Functions often described using Big-O Notation  ,Big-Omega and Big-Theta ,Notation Algorithm ,Time Complexity.
 
-#Week 8
+|         Complexity        |                           Termninology                         |	
+|:-------------------:|:--------------------------------------------------------------:|
+|    Big Theta of 1      |                     Constant Complexity                          |
+|    Big Theta of log(n)   |                   Logarithmic Complexity                     |
+|    Big Theta of n      |                     Linear Complexity                             |
+|    Big Theta of n log(n) |                   Linearithmic Complexity                             |
+|    Big Theta of 1       |                    Polynomial Complexity                      |
+|    Big Theta of b^n     |                    Exponential Complexity                         |
+|    Big Theta of n!       |                   Factorial Complexity                           |
+
+
+#Week 10
+
+-I learned Bubble Sort ,Insertion Sort and Greedy Algorithm.
+
+#Week 11 (No classes)
+
+#Week 12
 
 -We discussed about Graph Theory.
 
@@ -114,6 +135,6 @@ dismathportfolio-GannIsidro created by Classroom for GitHub
 
 -Euler's Formula : r = e - v + 2
 
-#Week 9
+#Week 13
 
--
+-Graph Coloring was the topic that introduced on this week
